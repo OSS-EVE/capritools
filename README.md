@@ -1,3 +1,14 @@
+# Notice
+
+You are on the `oss` branch of capritools which contains customizations for the OSS-hosted version of these tools.
+
+## TODO
+
+* Docker image with these features:
+  * Import SDE
+  * Import SQL
+  * Nginx Terminator
+
 # Capri's Tools
 A suite of helpful tools mostly to do with [EVE Online](https://www.eveonline.com/).
 
